@@ -5,3 +5,9 @@ __pycache__/
 .vscode/
 data/
 MNIST/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+Week-03/Assignment/data/
+Week-03/Mini-Project/data/

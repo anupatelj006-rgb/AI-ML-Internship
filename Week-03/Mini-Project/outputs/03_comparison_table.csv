@@ -1,0 +1,5 @@
+Model,Parameters,Best epoch,Train acc,Val acc,Test acc,Category acc,Time (s)
+Fully connected,235146,8,0.9163,0.8967,0.8896,0.9709,141
+Small CNN,105866,7,0.9018,0.9088,0.9031,0.9756,206
+Deep CNN (BatchNorm + Dropout),241994,8,0.9458,0.931,0.9201,0.9795,583
+Deep CNN + augmentation,241994,8,0.8848,0.9058,0.904,0.9784,580
