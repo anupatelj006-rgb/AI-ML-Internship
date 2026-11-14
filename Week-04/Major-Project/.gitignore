@@ -1,0 +1,9 @@
+data/*/*
+!data/*/.gitkeep
+__pycache__/
+*.pyc
+trashnet.zip
+_trashnet_tmp/
+outputs/prediction_log.csv
+outputs/batch_predictions.csv
+dataset/
