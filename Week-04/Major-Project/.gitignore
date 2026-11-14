@@ -7,3 +7,5 @@ _trashnet_tmp/
 outputs/prediction_log.csv
 outputs/batch_predictions.csv
 dataset/
+
+models_saved/*.pt
